@@ -61,4 +61,4 @@ ENV MAX_BUILD_HEIGHT 256
 #ENV LEVEL_SEED
 ENV PREVENT_PROXY_CONNECTION false
 
-ENTRYPOINT [ "/minecraft/entrypoint.sh" ]
+#ENTRYPOINT [ "/minecraft/entrypoint.sh" ]
